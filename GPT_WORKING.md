@@ -2,59 +2,81 @@
 
 Updated: 2026-08-26
 
-## Immediate Priorities
+## Current State
 
-1. Reconcile Tuff Shed final compensation with Holli Hoglund.
-   - Identify $7,940.49 deposit
-   - Confirm PTO hours, rate, and payout
-   - Confirm $19,152 separation payment remains separate
-   - Confirm remaining wages/reimbursements
-   - Obtain benefits/COBRA information
-   - Obtain ESOP information
-   - Obtain 401(k) separation information
+Tuff Shed employment ended 2026-08-25.
 
-2. Complete clean Tuff Shed property/information handoff.
-   - Await instructions for bomReader repository
-   - Do not modify/delete/reuse bomReader pending instructions
-   - Await inventory of assigned physical equipment
-   - Return identified property
-   - Obtain written confirmation that return obligations are satisfied
+The immediate mission is to manage the separation cleanly while converting a strong network and highly relevant recent experience into the next role.
 
-3. Review Tuff Shed separation agreement before signing.
-   - confidentiality
-   - non-disparagement
-   - references
-   - non-solicitation
-   - implications for adjacent companies
-   - obtain original employment/IP/restrictive covenant agreements
+## Top Priorities
 
-4. Continue active job-market communications.
-   - ThreeKit: outreach sent to Matt Gornick
-   - kBridge / Engineering Intent: Scott Heidy relationship active
-   - Zaelab: preserve warm relationship
-   - Broncos: remain ready for follow-up
-   - Logik.io: adjacent opportunity ecosystem
+### 1. Separation administration
 
-5. Build durable job-search operating system.
-   - consolidate resumes
-   - maintain company-specific notes
-   - track network outreach
-   - capture major decisions in this repo
+- Reconcile $7,940.49 deposit.
+- Confirm PTO payout.
+- Confirm $19,152 separation consideration remains distinct from final wages/PTO.
+- Obtain digital documents.
+- Resolve benefits / COBRA / retirement / ESOP.
+- Return all physical property.
+- Complete clean bomReader transfer.
+- Review agreement carefully before signing.
 
-## Open Questions
+### 2. Warm opportunity activation
 
-- What exactly was the $7,940.49 payment?
-- Should the $19,152 separation package be negotiated?
-- What prior Tuff Shed agreements govern IP/confidentiality?
-- Are any separation provisions problematic for adjacent industry roles?
-- What language should be used when asked directly about termination?
-- Which opportunities should receive the most active attention?
+Priority order is dynamic, but current highest-value conversations include:
 
-## Recent Decisions
+- Engineering Intent / kBridge — Scott Heidy
+- ThreeKit — Matt Gornick
+- Zaelab — Irene Haney / Ciara Skiles
+- Denver Broncos — Joaquin Cruz and interview team
+- Logik.io ecosystem relationships
 
-- Do not sign the separation agreement immediately.
-- Obtain records and reconcile financials first.
-- Do not describe the $7,940.49 as severance without confirmation.
-- bomReader is frozen pending Tuff Shed transfer instructions.
-- Direct outreach to Matt Gornick was sent.
-- Use this repository as the canonical job-transition workspace.
+### 3. Positioning
+
+Current external identity:
+
+Head of Platform & Production Systems | CPQ & Configuration-to-Production | Design-to-Build Platforms
+
+Do not collapse the story into "former CPQ product manager."
+
+The story is enterprise platform / transformation leadership.
+
+### 4. Build durable career assets
+
+- master career narrative
+- accomplishment inventory
+- quantified Tuff Shed scope
+- interview story bank
+- sanitized work samples
+- target company pipeline
+- networking ledger
+- resume variants
+
+## Immediate Open Loops
+
+- Holli response to offboarding request
+- identify $7,940.49 deposit
+- separation agreement review / negotiation decision
+- bomReader transfer instructions
+- physical property return instructions
+- Matt Gornick response
+- Scott Heidy conversation
+- Broncos status
+- Zaelab availability update timing
+
+## Communication Rules
+
+- truthful
+- concise
+- no unnecessary defensiveness
+- no disparagement
+- distinguish fact from inference
+- preserve optionality
+- lead with scope and outcomes
+- treat termination as a fact, not the headline
+
+## Repo Rule
+
+This repository is the canonical durable workspace for the job transition.
+
+Update this file whenever current priorities materially change.
